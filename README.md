@@ -1,9 +1,5 @@
 # icons
 
-Perfect! Here’s a **pimped-out, GitHub-ready README** with badges, emojis, and a more visual/developer-friendly vibe—basically like a mini Bootstrap Icons page in a README:
-
----
-
 ````md
 # YourProject Vector Icons 🎨
 
