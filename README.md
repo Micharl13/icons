@@ -14,7 +14,6 @@ A **free collection of scalable vector icons** for web and app projects. Clean �
   - **Solid** — Bold, filled icons  
   - **Outline** — Minimalist line icons  
   - **Colored** — Vibrant icons with color accents  
-- `preview/` — HTML page to view all icons quickly  
 - `LICENSE` — Open source license  
 
 ---
