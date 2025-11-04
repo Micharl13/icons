@@ -1,4 +1,18 @@
-# icons
+<p align="center">
+  <a href="https://github.com/Micharl13/Vector-front-end-framework">
+    <img src="https://raw.githubusercontent.com/micharl13/Vector-front-end-framework/main/assets/images/vectorlogo.png" alt="Vector logo" width="200" height="200">
+  </a>
+</p>
+
+<h3 align="center">Vector Icons</h3>
+
+<p align="center">
+  Official open source SVG icon library for Vector with over _ icons.
+  <br>
+  <a href=""><strong>Explore Vector Icons »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/Micharl13/Vector-front-end-framework">Bootstrap</a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Micharl13/icons?style=social)](https://github.com/Micharl13/icons/stargazers)
