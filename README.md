@@ -34,7 +34,7 @@
 
 ### HTML
 ```html
-<img src="icons/solid/home.svg" alt="Home icon">
+<img src="https://raw.githubusercontent.com/micharl13/icons/main/icons/solid/code-slash.svg" alt="Home icon">
 ````
 
 ### Inline SVG
