@@ -33,16 +33,6 @@ A **free collection of scalable vector icons** for web and app projects. Clean â
 </svg>
 ```
 
-### React / Vue / Svelte
-
-```jsx
-import HomeIcon from './icons/solid/home.svg';
-
-function App() {
-  return <HomeIcon />;
-}
-```
-
 ---
 
 ## âš¡ Features
