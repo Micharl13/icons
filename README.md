@@ -2,6 +2,10 @@
   <a href="https://github.com/Micharl13/Vector-front-end-framework">
     <img src="https://raw.githubusercontent.com/micharl13/Vector-front-end-framework/main/assets/images/vectorlogo.png" alt="Vector logo" width="200" height="200">
   </a>
+  <br>
+  <a><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+  <a href="https://github.com/Micharl13/icons/stargazers"><img src="https://img.shields.io/github/stars/Micharl13/icons?style=social"></a>
+  <a href="https://github.com/Micharl13/icons/network/members"><img src="https://img.shields.io/github/forks/Micharl13/icons?style=social"></a>
 </p>
 
 <h1 align="center">Vector Icons</h1>
@@ -13,10 +17,6 @@
   <br>
   <br>
   <a href="https://github.com/Micharl13/Vector-front-end-framework">Vector</a>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Micharl13/icons?style=social)](https://github.com/Micharl13/icons/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Micharl13/icons?style=social)](https://github.com/Micharl13/icons/network/members)
 
 ---
 
