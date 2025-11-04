@@ -1,8 +1,5 @@
 # icons
 
-````md
-# YourProject Vector Icons 🎨
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo?style=social)](https://github.com/YourUsername/YourRepo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepo?style=social)](https://github.com/YourUsername/YourRepo/network/members)
