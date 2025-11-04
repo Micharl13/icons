@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Vector Icons</h3>
+<h1 align="center">Vector Icons</h1>
 
 <p align="center">
   Official open source SVG icon library for Vector with over 50 icons (coming soon).
