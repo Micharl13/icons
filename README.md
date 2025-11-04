@@ -18,8 +18,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Micharl13/icons?style=social)](https://github.com/Micharl13/icons/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Micharl13/icons?style=social)](https://github.com/Micharl13/icons/network/members)
 
-A **free collection of scalable vector icons** for web and app projects. Clean ✅, lightweight ⚡, and ready to use 💻.
-
 ---
 
 ## 📂 Contents
