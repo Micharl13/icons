@@ -55,12 +55,6 @@ function App() {
 
 ---
 
-## 🔍 Preview
-
-Open `preview/index.html` in your browser to see all icons at a glance.
-
----
-
 ## 🤝 Contributing
 
 Love icons? Want to add more?
