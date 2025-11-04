@@ -12,7 +12,7 @@
   <a href=""><strong>Explore Vector Icons »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/Micharl13/Vector-front-end-framework">Bootstrap</a>
+  <a href="https://github.com/Micharl13/Vector-front-end-framework">Vector</a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Micharl13/icons?style=social)](https://github.com/Micharl13/icons/stargazers)
