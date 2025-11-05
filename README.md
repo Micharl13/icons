@@ -11,7 +11,7 @@
 <h1 align="center">Vector Icons</h1>
 
 <p align="center">
-  Official open source SVG icon library for Vector with over 50 icons (coming soon).
+  (COMING SOON) Official open source SVG icon library for Vector with over 50 different icons (over 300 icons total).
   <br>
   <a href=""><strong>Explore Vector Icons »</strong></a>
   <br>
@@ -22,11 +22,16 @@
 
 ## 📂 Contents
 
-- `icons/` — SVG files organized by style:
-  - **Solid** — Bold, filled icons  
-  - **Outline** — Minimalist line icons  
-  - **Colored** — Vibrant icons with color accents  
-- `LICENSE` — Open source license  
+- `icons/` — SVG files organized by style and size:
+  - `dark` — Dark mode variants - bold, filled icons, minimalist line icons
+      - `16px`
+      - `24px`
+      - `32px`
+  - `light` — Light mode variants - bold, filled icons, minimalist line icons
+      - `16px`
+      - `24px`
+      - `32px`
+- `LICENSE` — Open source MIT license
 
 ---
 
@@ -34,7 +39,7 @@
 
 ### HTML
 ```html
-<img src="https://cdn.jsdelivr.net/gh/micharl13/icons@main/icons/solid/home.svg" alt="Home icon">
+<img src="https://cdn.jsdelivr.net/gh/micharl13/icons@main/icons/dark/24px/0-circle-outline.svg" alt="0 outline icon">
 ````
 
 ### Inline SVG
