@@ -20,6 +20,15 @@
 
 ---
 
+## Features
+
+* Fully **scalable SVGs**
+* Optimized for **web & mobile**
+* Easy to browse, copy, and implement
+* Open source for **personal & commercial projects**
+
+---
+
 ## Usage
 
 ### HTML
@@ -34,15 +43,6 @@
   <!-- paste SVG code here -->
 </svg>
 ```
-
----
-
-## Features
-
-* Fully **scalable SVGs**
-* Optimized for **web & mobile**
-* Easy to browse, copy, and implement
-* Open source for **personal & commercial projects**
 
 ---
 
