@@ -20,22 +20,7 @@
 
 ---
 
-## 📂 Contents
-
-- `icons/` — SVG files organized by style and size:
-  - `dark` — Dark mode variants - bold, filled icons, minimalist line icons
-      - `16px`
-      - `24px`
-      - `32px`
-  - `light` — Light mode variants - bold, filled icons, minimalist line icons
-      - `16px`
-      - `24px`
-      - `32px`
-- `LICENSE` — Open source MIT license
-
----
-
-## 🚀 Quick Usage
+## Usage
 
 ### HTML
 ```html
@@ -52,7 +37,7 @@
 
 ---
 
-## ⚡ Features
+## Features
 
 * Fully **scalable SVGs**
 * Optimized for **web & mobile**
@@ -61,7 +46,7 @@
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Love icons? Want to add more?
 
@@ -73,6 +58,6 @@ Love icons? Want to add more?
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
