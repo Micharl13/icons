@@ -11,7 +11,7 @@
 <h1 align="center">Vector Icons</h1>
 
 <p align="center">
-  (COMING SOON) Official open source SVG icon library for Vector with over 50 different icons (over 300 icons total).
+  (COMING SOON) Official open source SVG icon library for Vector.
   <br>
   <a href=""><strong>Explore Vector Icons »</strong></a>
   <br>
