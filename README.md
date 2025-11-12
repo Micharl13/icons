@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Micharl13/Vector-front-end-framework">
-    <img src="https://raw.githubusercontent.com/micharl13/Vector-front-end-framework/main/assets/images/vectorlogo.png" alt="Vector logo" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/WitnessDevs/vector/main/assets/images/vectorlogo.png" alt="Vector logo" width="200" height="200">
   </a>
   <br>
   <a><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
